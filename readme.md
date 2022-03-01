@@ -29,4 +29,4 @@ ex: Accusation 7: I accuse Jane, with the paper clip in the copy room!*
     * Make sure you only select valid array indexes
     * Modulus is your friend
     * ex: 10 mod 10 is 0, 11 mod 10 is 1, 12 mod 10 is 2, ...
-* You only need to use one loop for this assignmen#
+* You only need to use one loop for this assignmen#"# AbigaleCallins" 
